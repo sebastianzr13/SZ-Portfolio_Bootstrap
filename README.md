@@ -16,6 +16,7 @@
 
   <img alt="License" src="https://img.shields.io/github/license/sebastianzr13/sz-portfolio_bootstrap?color=56BEB8">
 
+
 </p>
 
 <!-- Status -->
