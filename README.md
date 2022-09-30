@@ -22,15 +22,15 @@
 
 
 <h4 align="center"> 
-	🚧  SZ Portfolio Bootstrap_Grid 🚀 Under construction...  🚧
+	🚧  Under construction...  🚧
 </h4> 
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#dart-about">Roadmap</a> &#xa0; | &#xa0; 
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#rocket-roadmap">Roadmap</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -43,14 +43,14 @@
 
 Portfolio project for the MIT xPro's Professional Certificate in Coding: Full Stack Development with MERN, showing the layout of a web page, using and editing bootstrap styles.
 
-## :dart: Roadmap ##
+## :rocket: Roadmap ##
 
 - Updates for coding projects presented
 - Reuse of Navigation and Footer bars using Javascript
 - New "Abuot me' and 'My Skills' sections
 
 
-## :rocket: Technologies ##
+## :sparkles: Technologies ##
 
 The following tools were used in this project:
 
