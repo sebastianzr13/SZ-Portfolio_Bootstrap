@@ -129,12 +129,21 @@ section img:hover {
     background: #577789;
     border-radius: 20px;
     min-width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+ 
+    
 }
 
 .card h2{
     color: #E6B978;
 }
 
+.btn {
+    width: 200px;
+}
 
 /* Footer */
 
